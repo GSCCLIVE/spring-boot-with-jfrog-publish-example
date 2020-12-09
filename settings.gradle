@@ -10,4 +10,4 @@ pluginManagement {
 	}
 }
 
-rootProject.name = 'sample-spring-boot'
+rootProject.name = 'spring-boot-with-jfrog-publish-example'
